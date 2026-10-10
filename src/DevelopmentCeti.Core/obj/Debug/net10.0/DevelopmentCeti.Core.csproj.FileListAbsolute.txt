@@ -1,0 +1,13 @@
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\bin\Debug\net10.0\DevelopmentCeti.Core.deps.json
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\bin\Debug\net10.0\DevelopmentCeti.Core.dll
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\bin\Debug\net10.0\DevelopmentCeti.Core.pdb
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\obj\Debug\net10.0\DevelopmentCeti.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\obj\Debug\net10.0\DevelopmentCeti.Core.AssemblyInfoInputs.cache
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\obj\Debug\net10.0\DevelopmentCeti.Core.AssemblyInfo.cs
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\obj\Debug\net10.0\DevelopmentCeti.Core.csproj.CoreCompileInputs.cache
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\obj\Debug\net10.0\DevelopmentCeti.Core.sourcelink.json
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\obj\Debug\net10.0\DevelopmentCeti.Core.dll
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\obj\Debug\net10.0\refint\DevelopmentCeti.Core.dll
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\obj\Debug\net10.0\DevelopmentCeti.Core.pdb
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\obj\Debug\net10.0\ref\DevelopmentCeti.Core.dll
+C:\Users\rafa1\repos\DevelopmentCeti\src\DevelopmentCeti.Core\obj\Debug\net10.0\Developm.FA82BB5F.Up2Date

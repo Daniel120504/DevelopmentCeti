@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DevelopmentCeti.Core/DevelopmentCeti.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DevelopmentCeti.Tests/DevelopmentCeti.Tests.csproj" />
+  </Folder>
+</Solution>
