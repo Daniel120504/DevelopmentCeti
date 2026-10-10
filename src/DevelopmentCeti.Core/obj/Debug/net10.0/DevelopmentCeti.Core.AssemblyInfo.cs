@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevelopmentCeti.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e119fd88a53c120116c4984a2d1cc3e586682bee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f36f0aad3b3e38ce79000f762e4f978db246ec6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevelopmentCeti.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevelopmentCeti.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
