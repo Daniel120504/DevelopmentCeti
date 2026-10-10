@@ -2,8 +2,6 @@ namespace DevelopmentCeti.Core.Parking;
 
 public class ParkingRequestValidator
 {
-    public bool Validate(string licensePlate)
-    {
-        return !string.IsNullOrWhiteSpace(licensePlate);
-    }
+    public bool Validate(string? licensePlate) =>
+        !string.IsNullOrWhiteSpace(licensePlate);
 }
