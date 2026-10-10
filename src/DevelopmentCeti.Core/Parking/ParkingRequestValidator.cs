@@ -4,6 +4,6 @@ public class ParkingRequestValidator
 {
     public bool Validate(string licensePlate)
     {
-        return true;
+        return !string.IsNullOrWhiteSpace(licensePlate);
     }
 }
